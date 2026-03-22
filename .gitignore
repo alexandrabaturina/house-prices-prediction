@@ -1,0 +1,6 @@
+# Cleaned datasets
+data/train_clean.csv
+data/test_clean.csv
+
+# Preprocessor configuration
+preprocessor_config.pkl
